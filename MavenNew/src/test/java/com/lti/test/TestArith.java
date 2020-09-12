@@ -17,6 +17,6 @@ public class TestArith {
 	
 	@Test
 	public void testDub() {
-		assertEquals(10, arith.sub(20, 10));
+		assertEquals(1, arith.sub(20, 10));
 	}
 }
