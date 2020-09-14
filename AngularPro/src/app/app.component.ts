@@ -10,7 +10,12 @@ import { Component } from '@angular/core';
       <h2>
         Github Jenkins Integration Attempt
       </h2>
-    </div>    
+    </div>
+    <div style="text-align:center" class="content">
+      <h3>
+        The integration was successful and now we move on towards Hibernate
+      </h3>
+    </div>   
   `,
   styles: [
     `h1{
@@ -20,6 +25,10 @@ import { Component } from '@angular/core';
     h2{
       font-family:verdana;
       color:red;
+    }
+    h3{
+      font-family: sans-serif;
+      color: blue;
     }`
   ]
 })
