@@ -13,9 +13,13 @@ import { Component } from '@angular/core';
     </div>    
   `,
   styles: [
-    `h1, h2{
+    `h1{
       font-family: verdana,
-      color: readonly;
+      color: red;
+    }
+    h2{
+      font-family:verdana,
+      color:red;
     }`
   ]
 })
