@@ -14,11 +14,11 @@ import { Component } from '@angular/core';
   `,
   styles: [
     `h1{
-      font-family: verdana,
+      font-family: verdana;
       color: red;
     }
     h2{
-      font-family:verdana,
+      font-family:verdana;
       color:red;
     }`
   ]
