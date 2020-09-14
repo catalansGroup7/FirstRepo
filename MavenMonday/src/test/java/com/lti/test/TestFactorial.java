@@ -18,7 +18,6 @@ public class TestFactorial {
 	
 	@Test
 	public void testgetFactorial() {
-		
 		assertEquals(120, fact.getFactorial(5));
 	}
 }
