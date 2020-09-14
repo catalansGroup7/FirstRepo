@@ -15,7 +15,12 @@ import { Component } from '@angular/core';
       <h3>
         The integration was successful and now we move on towards Hibernate
       </h3>
-    </div>   
+    </div>
+    <div style="text-align: right" class="content">
+      <h4>
+        Presented by Team 7
+      </h4>
+    </div>
   `,
   styles: [
     `h1{
@@ -29,6 +34,10 @@ import { Component } from '@angular/core';
     h3{
       font-family: sans-serif;
       color: blue;
+    }
+    h4{
+      font-family: arial;
+      color: black;
     }`
   ]
 })
