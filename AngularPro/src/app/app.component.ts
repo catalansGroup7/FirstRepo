@@ -18,7 +18,10 @@ import { Component } from '@angular/core';
     </div>
     <div style="text-align: right" class="content">
       <h4>
-        Presented by Team 7
+        Presented by Team 7:<br>
+        Sanjeet Shandilya<br>
+        Sayan Saha<br>
+        Mitadru Bhuiya
       </h4>
     </div>
   `,
